@@ -60,8 +60,45 @@ public class Jugador {
     }
      */
 
-    Scanner teclado = new Scanner(System.in);
+    /*
+    2do punto
 
+    public static void main(String[] args) {
+        Jugador jugador = new Jugador();
 
+        jugador.setNombre("Juan");
+        jugador.setPuntaje(140);
+        jugador.setNacionalidad("Argentino");
+        jugador.setEdad(29);
 
-}
+        // Mostrar el estado de los atributos por consola
+        System.out.println("Nombre: " + jugador.getNombre());
+        System.out.println("Puntaje: " + jugador.getPuntaje());
+        System.out.println("Nacionalidad: " + jugador.getNacionalidad());
+        System.out.println("Edad: " + jugador.getEdad());
+    }
+
+    private String getEdad() {
+        return null;
+    }
+    private String getNacionalidad() {
+        return null;
+    }
+    private void getPuntaje() {
+    }
+    private void setEdad(int i) {
+    }
+    private void setNacionalidad(String argentino) {
+    }
+    private void setPuntaje(int i) {
+    }
+    private void setNombre(String juan) {
+    }
+
+    private String getNombre() {
+        return null;
+    }
+    */
+    
+
+    }
